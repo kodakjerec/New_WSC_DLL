@@ -1,0 +1,11 @@
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\bin\Release\New_WSC_DLL.dll.config
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\bin\Release\New_WSC_DLL.dll
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\bin\Release\New_WSC_DLL.pdb
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.MessageBoxWSC.resources
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.Properties.Resources.resources
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.WaitWindow.resources
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.WSC_Sample_Form.resources
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.csproj.GenerateResource.Cache
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.dll
+D:\Projects\New_WSC_DLL\New_WSC_DLL\New_WSC_DLL\obj\Release\New_WSC_DLL.pdb
